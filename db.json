@@ -1,0 +1,134 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 694171,
+      "category": "PHP",
+      "organizer": "Mourad EL Jayi",
+      "title": "Test event",
+      "description": "this is a test event",
+      "location": "Agadir",
+      "date": "Aug 15 2021",
+      "time": "13:00",
+      "attendees": {
+        "id": "abc123",
+        "name": "Mourad EL Jayi"
+      }
+    },
+    {
+      "id": 234688,
+      "category": "PYTHON",
+      "organizer": "Mourad EL Jayi",
+      "title": "ggggg",
+      "description": "fffffffffffff",
+      "location": "bbbbbb",
+      "date": "bbb 25 2021",
+      "time": "19:00",
+      "attendees": ""
+    },
+    {
+      "id": 871705,
+      "category": "C++",
+      "organizer": "Mourad EL Jayi",
+      "title": "tttt",
+      "description": "tttttttttt",
+      "location": "ttttttttttt",
+      "date": "ttttt 20 2000",
+      "time": "20:00",
+      "attendees": ""
+    },
+    {
+      "id": 827700,
+      "category": "PERL",
+      "organizer": "Mourad EL Jayi",
+      "title": "ttrtfdd",
+      "description": "dfdsffsfsdfs",
+      "location": "dfsfsdfsdf",
+      "date": "ggg 22 5555",
+      "time": "19:00",
+      "attendees": ""
+    },
+    {
+      "id": 286296,
+      "category": "PYTHON",
+      "organizer": "Mourad EL Jayi",
+      "title": "rerezea",
+      "description": "dqsdqdqsdqds",
+      "location": "sqsds",
+      "date": "sqdqs 22 8888",
+      "time": "14:00",
+      "attendees": ""
+    }
+  ]
+}
